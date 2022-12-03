@@ -1,0 +1,10 @@
+site_name: My Test Docs
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Test: test.md
+    - Subfolder:
+      - Subdoc: subfolder/subdoc1.md
