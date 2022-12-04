@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Hello World
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hi and welcome. My name is Joe Wojak. I'm a technical writer in NYC.
 
-## Commands
+This site contains my resume and technical writing guide. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Regarding the writing guide, this represents a writing sample and reflects my thoughts about how to create and organize technical documentation. It's a writing reference that's grown over the years and I've used at all the companies I've worked at. For experienced technical writers, this information is not that new. Instead, this information is for engineers and developers who need to write documentation for the systems, services, and products that they build.
 
-## Project layout
+## Next steps
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Resume: Start here for information about my work experience.
+
+- Writing guide: Start here for information and advice about technical writing.
+
+Thanks for stopping by.

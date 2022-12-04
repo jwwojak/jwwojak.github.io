@@ -1,16 +1,32 @@
-site_name: My Test Docs
+site_name: Double Secret Probation
+site_description: A place for introductions, my writing guide, and demo space.
+site_author: Joe Wojak
 
 theme:
   name: material
+  features:
+    - search.highlight
+
+plugins:
+  - search
 
 markdown_extensions:
+  - abbr
   - admonition
+  - attr_list
+  - def_list
+  - md_in_html
   - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
   - pymdownx.superfences
+
+copyright: Copyright &copy; 2022 Joe Wojak
 
 
 nav:
-  - Home: index.md
+  - Hello World: index.md
   - Test: test.md
   - Subfolder:
       - Subdoc: subfolder/subdoc1.md
