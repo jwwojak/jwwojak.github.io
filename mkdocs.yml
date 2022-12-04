@@ -3,8 +3,14 @@ site_name: My Test Docs
 theme:
   name: material
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+
 nav:
   - Home: index.md
   - Test: test.md
-    - Subfolder:
+  - Subfolder:
       - Subdoc: subfolder/subdoc1.md
