@@ -24,9 +24,8 @@ markdown_extensions:
 
 copyright: Copyright &copy; 2022 Joe Wojak
 
-
 nav:
-  - Hello World: index.md
-  - Test: test.md
-  - Subfolder:
-      - Subdoc: subfolder/subdoc1.md
+  - Welcome: index.md
+  - Work Experience: resume/resume.md
+  - Writing Guide and Work:
+      - Introduction: guide/intro.md
