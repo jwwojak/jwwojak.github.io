@@ -29,3 +29,8 @@ nav:
   - Work Experience: resume/resume.md
   - Writing Guide and Work:
       - Introduction: guide/intro.md
+      - Documentation Types:
+          - Topic-Based Writing and Documentation Types: guide/types/types_intro.md
+          - Concept Documentation: guide/types/concepts.md
+          - Documenting Simple Procedures: guide/types/tasks_simple.md
+          - Documenting Complex Procedures: guide/types/tasks_complex.md
