@@ -17,7 +17,7 @@ Each topic type contains specific information that the others don't. Excluding c
 |----|----|
 | **Concept** | Concept documents explain ideas and describe how things work. Think of a concept piece as a deep, substantial, and informative discussion with your colleagues. A concept document doesn't contain task steps or procedures. See [Concept Documentation](concepts.md) for writing advice and examples. |
 | **Task** | Task documents provide step-by-step instructions that show you how to complete a procedure. They organize content into ordered or unordered lists. A task document doesn't include long blocks of conceptual information. See [Documenting Simple Procedures](tasks_simple.md) or [Task Documentation for Complex Procedures](tasks_simple.md) for writing advice and examples.
-| **Reference** | Reference documents list and define or describe things (e.g., UI features, dataset fields, glossary terms, API methods, FAQs, *[ADRs]::Architectural Decision Records. These are hybrid documents because they can include information found in the other document types. See [Reference Documentation](../types/hbk_types_reference.md) for writing advice and examples.
+| **Reference** | Reference documents list and define or describe things (e.g., UI features, dataset fields, glossary terms, API methods, FAQs, *[ADRs]:Architectural Decision Records. These are hybrid documents because they can include information found in the other document types. See [Reference Documentation](reference.md) for writing advice and examples.
 | **Tutorials** | Tutorials are a mixed document type. They can include the information found in all the other document types. This guide does not cover tutorials. |
 
 ## Help and support
