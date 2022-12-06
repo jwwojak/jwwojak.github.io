@@ -17,7 +17,7 @@
     
     
       
-        <title>Documenting Simple Procedures - Double Secret Probation</title>
+        <title>Documentation for Simple Procedures - Double Secret Probation</title>
       
     
     
@@ -66,7 +66,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#documenting-simple-procedures" class="md-skip">
+        <a href="#documentation-for-simple-procedures" class="md-skip">
           Skip to content
         </a>
       
@@ -99,7 +99,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Documenting Simple Procedures
+              Documentation for Simple Procedures
             
           </span>
         </div>
@@ -323,12 +323,12 @@
       
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
-          Documenting Simple Procedures
+          Documentation for Simple Procedures
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
-        Documenting Simple Procedures
+        Documentation for Simple Procedures
       </a>
       
         
@@ -374,13 +374,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#related-topics" class="md-nav__link">
-    Related topics
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -397,7 +390,21 @@
   
     <li class="md-nav__item">
       <a href="../tasks_complex/" class="md-nav__link">
-        Documenting Complex Procedures
+        Documentation for Complex Procedures
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../reference/" class="md-nav__link">
+        Reference Documentation
       </a>
     </li>
   
@@ -471,13 +478,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#related-topics" class="md-nav__link">
-    Related topics
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -493,27 +493,22 @@
                   
 
 
-<h1 id="documenting-simple-procedures">Documenting Simple Procedures</h1>
+<h1 id="documentation-for-simple-procedures">Documentation for Simple Procedures</h1>
 <p>Task documentation shows readers how to do something. It breaks down a workflow into the sequential or non-sequential steps required to complete a process. Write task docs to explain how to use the thing you built rather than why you created it.</p>
-<p>For a task document example, see <a href="https://backstage.spotify.net/docs/default/component/declarative-infra/#concepts">Adding gRPC to Apollo</a>.</p>
 <h2 id="structure">Structure</h2>
 <p>This diagram shows how to organize a simple task document:</p>
-<p><img alt="hbk_task_doc.png" src="../images/hbk_task_doc.png" /></p>
+<p><img alt="hbk_task_doc.png" src="../../../images/simple_task.png" /></p>
 <p>Describing each step in a task is essential. This includes obvious steps like "Click <strong>Save</strong>." Simple actions might not be self-evident, or require a separate step, so you need to include them. For your readers, few things are more maddening than vague or incomplete instructions. You just gotta do it.</p>
-<div class="admonition tip">
-<p class="admonition-title">Tip</p>
-<p>For procedures that have 6 or more steps, see <a href="hbk_types_complex.md" title="complex tasks">Documenting Complex Tasks</a>.</p>
-</div>
 <h2 id="features">Features</h2>
 <p>Common features of task documentation include:</p>
 <ul>
-<li><a href="../style/hbk_style_headers.md" title="titles">Descriptive titles</a> that suggest or summarize the main topic.</li>
+<li>Descriptive titles that suggest or summarize the main topic.</li>
 <li>Numbered steps (if steps must be completed sequentially).</li>
-<li><strong>Bold text</strong> for UI elements that you interact with. See the section on <a href="../style/hbk_style_bold.md">Bold Text</a>.</li>
+<li><strong>Bold text</strong> for UI elements that you interact with. See the section on Bold Text LINK TBD.</li>
 <li>Bulleted steps (if steps don't need to follow in sequential order).</li>
 <li>The text "<em>(Optional)</em>" at the beginning of a step to indicate that it isn't required.</li>
 <li>Images.</li>
-<li>Separate sections to break up long procedures. See <a href="hbk_types_complex.md" title="complex tasks">Writing About Complex Tasks</a>.</li>
+<li>Separate sections to break up long procedures. See also <a href="../tasks_complex/">Documentation for Complex Procedures</a>.</li>
 </ul>
 <h2 id="style-advice">Style advice</h2>
 <p>When writing task documentation:</p>
@@ -525,24 +520,17 @@
 <p>Start the procedure right away. Avoid long introductions or overviews (use a concept page for that). It is OK to note task pre- and post-requisites or provide context, but try to start the task steps quickly.</p>
 </li>
 <li>
-<p>Start each step using a verb in the <a href="https://en.wikipedia.org/wiki/Imperative_mood" title="imperative mood">imperative mood</a>. For example, "Click this," "Select that," "Choose X." Procedural steps are commands, not requests.</p>
+<p>Start each step using a verb in the <a href="https://en.wikipedia.org/wiki/Imperative_mood">imperative mood</a>. For example, "Click this," "Select that," "Choose X." Procedural steps are commands, not requests.</p>
 </li>
 <li>
 <p>Link to other docs that describe step options or strategies. You can list the options (try bullets), but don't clutter up instructions with extensive explanations. Put that information in a separate document.</p>
 </li>
 <li>
-<p>Follow the advice in <a href="../style/hbk_style_intro.md" title="UI style guide section">Writing About UI Controls</a> when describing user interactions with UI features.</p>
+<p>Follow the advice in Writing About UI Controls LINK TBD when describing user interactions with UI features.</p>
 </li>
 </ul>
 <h2 id="what-to-avoid">What to avoid</h2>
-<p>Don't start your task doc with a long introduction or "overview" content. Put this information in a separate <a href="hbk_types_concepts.md" title="concept doc link">concept document</a>. Remember, your users read task documents to complete a process. They want instructions first and foremost. Don't bury the steps under a long introduction.</p>
-<h2 id="related-topics">Related topics</h2>
-<ul>
-<li><a href="hbk_types_concepts.md" title="concept doc link">Concept Docs</a></li>
-<li><a href="hbk_types_reference.md" title="reference doc link">Reference Docs</a></li>
-<li><a href="hbk_types_complex.md" title="complex tasks">Writing About Complex Tasks</a></li>
-</ul>
-<!-- Reference links -->
+<p>Don't start your task doc with a long introduction or "overview" content. Put this information in a separate <a href="../concepts/">concept document</a>. Remember, your users read task documents to complete a process. They want instructions. Don't bury the steps under a long introduction.</p>
 
 
 
@@ -579,13 +567,13 @@
       
       
         
-        <a href="../tasks_complex/" class="md-footer__link md-footer__link--next" aria-label="Next: Documenting Complex Procedures" rel="next">
+        <a href="../tasks_complex/" class="md-footer__link md-footer__link--next" aria-label="Next: Documentation for Complex Procedures" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Next
               </span>
-              Documenting Complex Procedures
+              Documentation for Complex Procedures
             </div>
           </div>
           <div class="md-footer__button md-icon">
