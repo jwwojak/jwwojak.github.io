@@ -35,3 +35,5 @@ nav:
           - Documentation for Simple Procedures: guide/types/tasks_simple.md
           - Documentation for Complex Procedures: guide/types/tasks_complex.md
           - Reference Documentation: guide/types/reference.md
+      - Organization:
+          - Introduction: guide/organization/org_intro.md
