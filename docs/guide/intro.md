@@ -14,7 +14,7 @@ Welcome to the _Technical Writing Guide_. The _Guide_ is designed to help engine
 Writing good documentation is essential. It helps everyone in your organization understand and use the services and systems that you create. But, sometimes writing is a difficult, intimidating, and tedious activity. Maybe you're unsure about what to include, exclude, or how to organize written content. As a result, we've created this guide. It can help you understand how to write, organize content, and resolve common technical writing issues.
 
 ??? info "Secondary goals"
-    This work represents a writing sample and reflects my thoughts about how to create and organize technical documentation. It's a writing reference that's grown over the years and I've used at all the companies I've worked at. For experienced technical writers, this information is not that new. Instead, this information is for engineers and developers who need to write documentation for the systems, services, and products that they build.
+    This work represents a writing sample and reflects my thoughts about how to create and organize technical documentation. It's a writing reference that's grown over the years. I've used it, in one form or another, at all the companies I've worked for. If you're an experienced technical writer, this information is not that new. Instead, this information is for less experienced content creators (e.g., engineers and developers) who need to write documentation for the systems, services, and products that they build.
 
 ## Next steps
 
