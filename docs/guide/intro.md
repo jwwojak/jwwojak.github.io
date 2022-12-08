@@ -1,5 +1,7 @@
 # Introduction
 
+![status](https://img.shields.io/badge/status-draft--demo-orange)
+
 _There are three rules for writing . . . Unfortunately, no one knows what they are._  
 &mdash; _Somerset Maugham_
 
