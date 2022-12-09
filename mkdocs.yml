@@ -38,7 +38,10 @@ nav:
       - Organizing Sections and Pages:
           - Introduction: guide/organization/org_intro.md
           - Section Outline: guide/organization/org_outline.md
-          - Homepage: placeholder.md
+          - Homepage:
+              - Homepage Theory and Purpose: guide/organization/home_theory.md
+              - Homepage Outline and Section Summaries: guide/organization/home_outline.md
+              - Homepage Quick Reference: guide/organization/home_reference.md
           - Overview: placeholder.md
           - Getting Started: placeholder.md
           - Other Content Sections: placeholder.md
