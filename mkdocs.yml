@@ -35,5 +35,13 @@ nav:
           - Documentation for Simple Procedures: guide/types/tasks_simple.md
           - Documentation for Complex Procedures: guide/types/tasks_complex.md
           - Reference Documentation: guide/types/reference.md
-      - Organization:
+      - Organizing Sections and Pages:
           - Introduction: guide/organization/org_intro.md
+          - Section Outline: guide/organization/org_outline.md
+          - Homepage: placeholder.md
+          - Overview: placeholder.md
+          - Getting Started: placeholder.md
+          - Other Content Sections: placeholder.md
+          - FAQs: placeholder.md
+          - ADRs: placeholder.md
+
