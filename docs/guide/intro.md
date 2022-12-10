@@ -18,7 +18,11 @@ Writing good documentation is essential. It helps everyone in your organization 
 
 ## Next steps
 
-See doc type section and org sections and style sections TBD
+Here are suggestions about where to go next:
+
+- [Topic-Based Writing and Documentation Types](types/types_intro.md): An introduction and short primer on organizing complex technical subjects into topics and specific document topic types.
+
+- [Organizing Sections and Pages](organization/org_intro.md): An outline and description of how to organize the table of contents and individual sections in your documentation space.
 
 ## Make improvements and report errors
 

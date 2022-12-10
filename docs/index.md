@@ -7,8 +7,6 @@ This site contains my resume and technical writing guide.
 !!! warning
     This work is in alpha. Pages may be blank or incomplete. Some links may not work. We're making changes daily.
 
-
-
 ## Next steps
 
 - See [Work Experience](resume/resume.md) for information about me and my work experience.
