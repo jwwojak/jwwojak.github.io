@@ -1,14 +1,15 @@
 # Documentation for Simple Procedures
 
-Task documentation shows readers how to do something. It breaks down a workflow into the sequential or non-sequential steps required to complete a process. Write task docs to explain how to use the thing you built rather than why you created it.
+Task documentation breaks down a workflow into the sequential or non-sequential steps required to complete a process. Write task docs to explain how to use the thing you built rather than why you created it.
 
 ## Structure
 
-This diagram shows how to organize a simple task document:
+This diagram demonstrates how to organize a simple task document:
 
 ![hbk_task_doc.png](../../images/simple_task.png)
 
-Describing each step in a task is essential. This includes obvious steps like "Click **Save**." Simple actions might not be self-evident, or require a separate step, so you need to include them. For your readers, few things are more maddening than vague or incomplete instructions. You just gotta do it.
+!!! important
+    Describing each step in a task is essential. This includes obvious steps like "Click **Save**." After all, simple actions might not be self-evident so you need to include them. For your readers, few things are more maddening than vague or incomplete instructions. You just gotta do it.
 
 ## Features
 

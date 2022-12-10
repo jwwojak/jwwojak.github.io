@@ -14,7 +14,7 @@ V.&nbsp;&nbsp;&nbsp;FAQs<br>
 VI.&nbsp;&nbsp;ADRs
 
 ??? tip "MkDocs and the TOC"
-    We're using MkDocs to build and organize the space and content you're reading now. For anyone using MkDocs, you edit the `mkdocs.yml` file to add, delete, and reorganize the content hierarchy in your documentation space. MKDOCS LINK TBD
+    We're using MkDocs to build and organize the space and content you're reading now. For anyone using MkDocs, you edit the `mkdocs.yml` file to add, delete, and reorganize the content hierarchy in your documentation space. <font color="red">LINK TBD</FONT>
 
 ## Next steps
 

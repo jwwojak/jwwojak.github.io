@@ -798,7 +798,7 @@
 
 
 <h1 id="homepage-outline-and-section-summaries">Homepage Outline and Section Summaries</h1>
-<p>Here’s an outline and section descriptions for a basic documentation homepage. It tries to meet the goals set and discussed in <a href="../home_theory/">Homepage Theory and Purpose</a>. Take a moment to review that if you haven't read it yet.</p>
+<p>Here’s an outline you can follow to create a basic documentation homepage. It tries to meet the goals discussed in <a href="../home_theory/">Homepage Theory and Purpose</a>. Take a moment to review that article if you haven't read it yet.</p>
 <h2 id="sections-outlined">Sections outlined</h2>
 <p>This outline shows you how to organize the major sections of your documentation homepage.</p>
 <p>I. Page title<br>
@@ -811,7 +811,7 @@ VI. Related topics (optional)<br></p>
 <p>Except for the introduction/short description, you can use the outline headers as the titles of each section.</p>
 <div class="admonition tip">
 <p class="admonition-title">Tip</p>
-<p>For a visual overview, see the <a href="../../../placeholder/">Homepage Quick Reference</a>.</p>
+<p>For a visual overview, see the <a href="../home_reference/">Homepage Quick Reference</a>.</p>
 </div>
 <h2 id="sections-described">Sections described</h2>
 <p>Let’s take a look at the typical contents and formatting of each section in a homepage.</p>
@@ -822,7 +822,6 @@ VI. Related topics (optional)<br></p>
 <li>Working With <abbr title="An RPC framework, see https://grpc.io/">gRPC</abbr></li>
 <li>Pipeline Orchestration With <abbr title="Workflow automation, see https://flyte.org/">Flyte</abbr></li>
 </ul>
-<p>In Markdown, page titles are styled with H1 <code>#</code> title case titles (e.g. <code># Implementing Apollo Services</code>).</p>
 <h3 id="introduction-section">Introduction section</h3>
 <p>The introduction or short description immediately follows the page title. It should welcome the reader to your docs site and/or briefly summarize your service or page contents. Don’t try to write a complete explanation of your whole system in the introduction. Save that longer discussion for the summary section or another page.</p>
 <!-- 
@@ -832,17 +831,18 @@ VI. Related topics (optional)<br></p>
 
 <p>Style elements for an introduction section include:</p>
 <ul>
+<li>Using an H1 <code>#</code> title case title for page titles (e.g. <code># Implementing Apollo Services</code>).</li>
 <li>No section title. Let the page title start the short description. Just write your text.</li>
 <li>Complete, grammatically correct sentences.</li>
 </ul>
 <h3 id="summary-section">Summary section</h3>
 <p>The summary section should contain 1-3 paragraphs that provide just enough information to describe your service. If you don't use a summary on the homepage and still want to describe your service, put that text in a separate overview section.</p>
-<p>Style elements for a summary section include H2 <code>##</code> sentence case section headers. Text like <code>## Summary</code> or <code>## Service overview</code> are good examples of section titles.</p>
+<p>Use an H2 <code>##</code> sentence case title for the section headers. Text like <code>## Summary</code> or <code>## Service overview</code> are good examples of section titles.</p>
 <h3 id="next-steps-section">Next steps section</h3>
 <p>What do you do after the introduction and summary? Well, you and your team are the subject matter experts. Put that knowledge to work and provide some recommendations for your readers. The "Next steps" section is your opportunity to guide people to information that you think is important. For instance:</p>
 <ul>
 <li>
-<p>New users may want to know how to implement your system. In this case, referring them to “getting started” content might be helpful.</p>
+<p>New users may want to know how to implement your system or how it works. In this case, referring them to getting started or overview content might be helpful.</p>
 </li>
 <li>
 <p>Experienced users might need help with a complex issue or question. Pointing them to a user guide, FAQ, or use cases could be another helpful link in this section.</p>
@@ -850,7 +850,7 @@ VI. Related topics (optional)<br></p>
 </ul>
 <p>Style elements for a next steps section include:</p>
 <ul>
-<li>H2 <code>##</code> sentence case section headers (e.g.,<code>## Next steps</code>).</li>
+<li>Using an H2 <code>##</code> sentence case title for the section header (e.g.,<code>## Next steps</code>).</li>
 <li>A bullet list of links to helpful resources.</li>
 <li>Short summaries of the content you choose to highlight in this section.</li>
 </ul>
@@ -858,7 +858,7 @@ VI. Related topics (optional)<br></p>
 <p>The contribution section describes how your readers can help improve your documentation or report errors. It is optional. </p>
 <p>Style elements for a contribution section include:</p>
 <ul>
-<li>H2 <code>##</code> sentence case section headers (e.g.,<code>## Contribute</code>).</li>
+<li>Using an H2 <code>##</code> sentence case title for the section header (e.g.,<code>## Contribute</code>).</li>
 <li>A sentence, paragraph, or instructions that tell readers how to report bugs, issues, or lend a hand.</li>
 </ul>
 <h3 id="help-and-support-section">Help and support section</h3>
@@ -866,12 +866,12 @@ VI. Related topics (optional)<br></p>
 <p>Format this section as a simple bullet list that includes things like your Slack channels, group emails, Stack Overflow, or other resources.</p>
 <p>Style elements include:</p>
 <ul>
-<li>H2 <code>##</code> sentence case section headers (e.g., <code>## Help and support</code>)</li>
+<li>Using an H2 <code>##</code> sentence case title for the section header (e.g., <code>## Help and support</code>)</li>
 <li>
 <p>Contact information (e.g., Slack, gmail, Stack Overflow, etc.) in a bullet list. Link to these when you can.</p>
 <div class="admonition tip">
 <p class="admonition-title">Stack Overflow Tip</p>
-<p>For Stack Overflow queries, link to that resource and add code that automatically populates the <strong>Tags</strong> field with a tag related to your service (e.g. <code>https://mycompany.stackenterprise.co/questions/ask?tags=&lt;add tag here&gt;</code>).</p>
+<p>If your company has its own instance of Stack Overflow, link to that resource and add code that automatically populates the <strong>Tags</strong> field with a tag related to your service (e.g. <code>https://mycompany.stackenterprise.co/questions/ask?tags=&lt;add tag here&gt;</code>).</p>
 </div>
 </li>
 </ul>
@@ -879,14 +879,14 @@ VI. Related topics (optional)<br></p>
 <p>The related topics section comprises simple bullet list of links to other resources that are similar to the topics covered by the page you're on. Including a related topics section is a great way to connect readers with other parts of your documentation or external documentation. It optional.</p>
 <p>Style elements include:</p>
 <ul>
-<li>H2 <code>##</code> sentence case section headers (e.g., <code>## Related topics</code>, <code>Reference</code>, or <code>Further reading</code>).</li>
-<li>An simple bullet list of linked references. Don't use a bullet list if there's only 1 item. Just add that item under the title.</li>
+<li>Using an H2 <code>##</code> sentence case title for the section header (e.g., <code>## Related topics</code>, <code>Reference</code>, or <code>Further reading</code>).</li>
+<li>A simple bullet list of linked references. Don't use a bullet list if there's only 1 item. Just add that item under the title.</li>
 </ul>
 <h2 id="reference">Reference</h2>
 <p>For more information on page formatting, see the these sections :</p>
 <ul>
-<li>Page and Content Structure Quick Reference TBD</li>
-<li>Page Titles and Section Headers Deep Dive TBD</li>
+<li>Page and Content Structure Quick Reference <font color="red">LINK TBD</FONT></li>
+<li>Page Titles and Section Headers Deep Dive <font color="red">LINK TBD</FONT></li>
 </ul>
 <!--Reference links -->
 

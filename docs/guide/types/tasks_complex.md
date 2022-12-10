@@ -1,6 +1,6 @@
 # Task Documentation for Complex Procedures
 
-Complex procedures are tasks that require, say, 6 (or more) steps to complete. And, similar to [writing about simple tasks](tasks_simple.md), you explain how to use something rather than why you created it.
+Complex procedures are tasks that require, say, 6 (or more) steps to complete. And, similar to a [simple task](tasks_simple.md), you explain how to do something rather than why you created it.
 
 ## Examples
 

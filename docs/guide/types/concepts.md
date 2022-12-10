@@ -6,11 +6,11 @@ Concept documentation explains and describes. For example, you might write a con
 
 Common features of concept documentation include:
 
-- Descriptive titles LINK TBD that suggest or summarize the main topics.
+- Descriptive titles that suggest or summarize the main topics.
 
-- Sections of related content separated by informative headers LINK TBD.
+- Sections of related content separated by informative headers.
 
-- Notes, tips, warnings, and other callouts LINK TBD that focus attention on important items.
+- Notes, tips, warnings, and other call-outs that focus attention on important items.
 - Numbered or bulleted lists that do not enumerate procedures or task steps.
 - Tables
 - Images and diagrams
@@ -25,3 +25,7 @@ Additionally, present-tense writing imparts a “timeless” quality to your doc
 ## What to avoid
 
 Conceptual documentation shouldn't contain tasks, procedural steps, or reference information. Task and reference content are separate topic types. Documentation for these topics follow a different set of standards.
+
+<!-- Reference links -->
+
+*[call-outs]: Text set aside for special attention like a note, tip, or warning.

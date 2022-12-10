@@ -1,6 +1,6 @@
 # Homepage Outline and Section Summaries
 
-Here’s an outline and section descriptions for a basic documentation homepage. It tries to meet the goals set and discussed in [Homepage Theory and Purpose](home_theory.md). Take a moment to review that if you haven't read it yet.
+Here’s an outline you can follow to create a basic documentation homepage. It tries to meet the goals discussed in [Homepage Theory and Purpose](home_theory.md). Take a moment to review that article if you haven't read it yet.
 
 ## Sections outlined
 
@@ -17,7 +17,7 @@ VI. Related topics (optional)<br>
 Except for the introduction/short description, you can use the outline headers as the titles of each section.
 
 !!! Tip
-    For a visual overview, see the [Homepage Quick Reference](../../placeholder.md).
+    For a visual overview, see the [Homepage Quick Reference](home_reference.md).
 
 ## Sections described
 
@@ -31,8 +31,6 @@ A homepage title should include or suggest the name of your service, feature, or
 - Working With gRPC
 - Pipeline Orchestration With Flyte
 
-In Markdown, page titles are styled with H1 `#` title case titles (e.g. `# Implementing Apollo Services`).
-
 ### Introduction section
 
 The introduction or short description immediately follows the page title. It should welcome the reader to your docs site and/or briefly summarize your service or page contents. Don’t try to write a complete explanation of your whole system in the introduction. Save that longer discussion for the summary section or another page.
@@ -44,6 +42,7 @@ The introduction or short description immediately follows the page title. It sho
 
 Style elements for an introduction section include:
 
+- Using an H1 `#` title case title for page titles (e.g. `# Implementing Apollo Services`).
 - No section title. Let the page title start the short description. Just write your text.
 - Complete, grammatically correct sentences.
 
@@ -51,19 +50,19 @@ Style elements for an introduction section include:
 
 The summary section should contain 1-3 paragraphs that provide just enough information to describe your service. If you don't use a summary on the homepage and still want to describe your service, put that text in a separate overview section.
     
-Style elements for a summary section include H2 `##` sentence case section headers. Text like `## Summary` or `## Service overview` are good examples of section titles.
+Use an H2 `##` sentence case title for the section headers. Text like `## Summary` or `## Service overview` are good examples of section titles.
 
 ### Next steps section
 
 What do you do after the introduction and summary? Well, you and your team are the subject matter experts. Put that knowledge to work and provide some recommendations for your readers. The "Next steps" section is your opportunity to guide people to information that you think is important. For instance:
 
-- New users may want to know how to implement your system. In this case, referring them to “getting started” content might be helpful.
+- New users may want to know how to implement your system or how it works. In this case, referring them to getting started or overview content might be helpful.
 
 - Experienced users might need help with a complex issue or question. Pointing them to a user guide, FAQ, or use cases could be another helpful link in this section.
 
 Style elements for a next steps section include:
 
-- H2 `##` sentence case section headers (e.g.,`## Next steps`).
+- Using an H2 `##` sentence case title for the section header (e.g.,`## Next steps`).
 - A bullet list of links to helpful resources.
 - Short summaries of the content you choose to highlight in this section.
 
@@ -73,7 +72,7 @@ The contribution section describes how your readers can help improve your docume
 
 Style elements for a contribution section include:
 
-- H2 `##` sentence case section headers (e.g.,`## Contribute`).
+- Using an H2 `##` sentence case title for the section header (e.g.,`## Contribute`).
 - A sentence, paragraph, or instructions that tell readers how to report bugs, issues, or lend a hand.
 
 ### Help and support section
@@ -84,11 +83,11 @@ Format this section as a simple bullet list that includes things like your Slack
 
 Style elements include:
 
-- H2 `##` sentence case section headers (e.g., `## Help and support`)
+- Using an H2 `##` sentence case title for the section header (e.g., `## Help and support`)
 - Contact information (e.g., Slack, gmail, Stack Overflow, etc.) in a bullet list. Link to these when you can.
 
     !!! tip "Stack Overflow Tip"
-        For Stack Overflow queries, link to that resource and add code that automatically populates the **Tags** field with a tag related to your service (e.g. `https://mycompany.stackenterprise.co/questions/ask?tags=<add tag here>`).
+        If your company has its own instance of Stack Overflow, link to that resource and add code that automatically populates the **Tags** field with a tag related to your service (e.g. `https://mycompany.stackenterprise.co/questions/ask?tags=<add tag here>`).
 
 ### Related topics section
 
@@ -96,15 +95,15 @@ The related topics section comprises simple bullet list of links to other resour
 
 Style elements include:
 
-- H2 `##` sentence case section headers (e.g., `## Related topics`, `Reference`, or `Further reading`).
-- An simple bullet list of linked references. Don't use a bullet list if there's only 1 item. Just add that item under the title.
+- Using an H2 `##` sentence case title for the section header (e.g., `## Related topics`, `Reference`, or `Further reading`).
+- A simple bullet list of linked references. Don't use a bullet list if there's only 1 item. Just add that item under the title.
 
 ## Reference
 
 For more information on page formatting, see the these sections :
 
-- Page and Content Structure Quick Reference TBD
-- Page Titles and Section Headers Deep Dive TBD
+- Page and Content Structure Quick Reference <font color="red">LINK TBD</FONT>
+- Page Titles and Section Headers Deep Dive <font color="red">LINK TBD</FONT>
 
 <!--Reference links -->
 

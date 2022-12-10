@@ -1,6 +1,6 @@
 # Reference Documentation
 
-Reference documentation explains, lists, and describes or defines features like buttons, menu options, code, dataset fields, API functions, and [architectural decision records](https://adr.github.io/) (ADRs). You write reference documents to define and describe individual components of a product or system.
+Reference documentation explains, lists, and describes or defines features like buttons, menu options, code, dataset fields, API functions, and [architectural decision records](https://adr.github.io/) (ADRs). You write reference documents to help your users better understand the details of individual components of a product or system.
 
 ## Features
 
@@ -14,7 +14,7 @@ Common features of a reference document include:
 
 Keep your reference docs simple. Written content should consist mainly of a term and its related definition. Tables are great for reference material.
 
-When defining dataset fields or code, use formatting that gives each term a `code-like` appearance and use plain text definitions. If you're not writing about code, just use plain text.
+When defining dataset fields, file names, or code, use formatting that gives each term a `code-like` appearance and use plain text definitions. If you're not writing about code, just use plain text.
 
 ## What to avoid
 
