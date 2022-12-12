@@ -49,3 +49,4 @@ nav:
           - FAQs: guide/organization/org_faqs.md
           - ADRs: guide/organization/org_adr.md
       - API Documentation: guide/api/api_intro.md
+      - Command Line Documentation: guide/cli/cli.md
