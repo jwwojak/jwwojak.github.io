@@ -48,3 +48,4 @@ nav:
           - Other Content Sections: guide/organization/org_other.md
           - FAQs: guide/organization/org_faqs.md
           - ADRs: guide/organization/org_adr.md
+      - API Documentation: guide/api/api_intro.md
