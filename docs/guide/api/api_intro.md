@@ -118,7 +118,7 @@ Start the description with the word "Returns."
 
 ### POST methods
 
-POST methods are a little unusual because they can do various things. The verbs and ways to describe these can vary, but this behavior still lends itself to writing descriptions with a fixed set of verbs and terms. Refer to these examples when writing descriptions for POST methods.
+POST methods can do various things. The verbs and ways to describe these can vary, but this behavior still lends itself to writing descriptions with a fixed set of verbs and terms. Refer to these examples when writing descriptions for POST methods.
 
 !!! Tip
     When writing POST descriptions, try to start with a verb that most closely describes what the method does.
