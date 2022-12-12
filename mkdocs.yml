@@ -42,9 +42,9 @@ nav:
               - Homepage Theory and Purpose: guide/organization/home_theory.md
               - Homepage Outline and Section Summaries: guide/organization/home_outline.md
               - Homepage Quick Reference: guide/organization/home_reference.md
-          - Overview: placeholder.md
-          - Getting Started: placeholder.md
-          - Other Content Sections: placeholder.md
-          - FAQs: placeholder.md
-          - ADRs: placeholder.md
-
+              - Homepage Code Template: guide/organization/home_code.md
+          - Overview: guide/organization/org_overview.md
+          - Getting Started: guide/organization/org_getting_started.md
+          - Other Content Sections: guide/organization/org_other.md
+          - FAQs: guide/organization/org_faqs.md
+          - ADRs: guide/organization/org_adr.md
