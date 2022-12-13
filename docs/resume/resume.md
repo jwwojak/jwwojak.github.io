@@ -11,38 +11,35 @@ This is a selected chronology of my work experience. [Download my resume](Joe_Wo
 ### Spotify
 Senior Technical Writer, 2017-2022
 
-- Wrote developer-facing documentation for Spotify’s internal system architecture. Content improved understanding among engineering teams about how to access and use services or how Spotify ad serving systems work.  
-- Wrote and revised training tutorials for engineers. Changes improved clarity, content adoption, and reduced confusion.
-- Created and maintained _The Spotify Technical Writing Handbook_, a writing and style guide for developers.
+- Wrote developer-facing documentation for Spotify’s internal system architecture. Content improved understanding among engineering teams about how to access and use services and how Spotify ad serving systems worked.  
+- Wrote and revised training tutorials for engineers. Changes improved clarity, accuracy, trust, content adoption, and reduced confusion.
+- Created The Spotify Technical Writing Handbook, a writing and style guide for developers. Guide designed to standardize content style and organization in Spotify’s internal documentation system.
 - Recorded tutorial videos about how to write and use Spotify’s internal documentation system.
-- Maintained the internal company glossary.
-- Founding member of a technical writing guild. The guild coordinated writing projects and promoted technical documentation at Spotify.
+- Helped create a technical writing guild. The guild coordinated writing projects and promoted technical documentation at Spotify.
 - Writing tools: MkDocs, Markdown, GitHub, Confluence, Coda, Loom (video), Google docs.
-
 
 ### Adobe Systems (again) 
 Senior Technical Writer, 2015-2017
 
-- Returned to Adobe to write external, customer-facing documentation for Audience Manager. Efforts brought neglected documentation up-to-date and reduced issue backlog. 
-- Created and reorganized documentation for the Marketing Cloud ID Service and the Marketing Cloud Device Co-Op. Documentation reduced support demands and allowed customers to work with these services in a self-service manner.
+- Returned to Adobe to write and manage documentation for Audience Manager. Efforts brought neglected documentation up-to-date and eliminated issue backlog.
+- Created and organized documentation for the Marketing Cloud ID Service and the Marketing Cloud Device Co-Op. Efforts reduced support demands and allowed customers to work with these systems in a self-service manner.
+- Mentored and collaborated with a junior technical writer based in Bucharest, Romania.
 - Helped developers write API documentation.
-- Writing tools: XMetaL, Oxygen (DITA authoring systems), GitHub, Confluence.
+-  Writing tools: XMetaL, Oxygen (DITA authoring systems), GitHub, Confluence, Google docs.
 
 ### Tapad
 Senior Technical Writer, 2013-2017
 
-- First technical writer hired. Tapad was a startup specializing in cross-device targeting/ad-serving.
-- Created and managed the original set of internal and external documentation for Tapad’s probabilistic, cross-device ad targeting system. Content used by internal staff and external customers.
+- First technical writer hired. Wrote documentation for Tapad’s probabilistic, cross-device ad targeting system. Documentation helped client support teams create target ad campaigns for external clients.
 - Worked with engineers to write API, Android, and iOS documentation.
-- Writing tools: Confluence and Google docs.
+- Writing tools: Confluence, Google docs.
 
 ### Demdex/Adobe Systems
 Technical Writer 2011-2013
 
-- First technical writer hired. Demdex was a NYC-based startup acquired by Adobe. The product was renamed Adobe Audience Manager.
-- Created and managed the original set of developer- and customer-facing documentation.
-- Migrated documentation from Google docs to Adobe’s documentation system.
-- Writing tools: XMetaL (a DITA authoring system), Confluence, SVN, Google docs.
+- First technical writer hired. Demdex was a data management platform (DMP) acquired by Adobe. Documentation helped advertisers create, segment, target, and deliver ads to online audiences.
+- Worked with engineers to write API, Android, and iOS documentation.
+- Writing tools: Confluence, Google docs.
 
 ## Skills
 
