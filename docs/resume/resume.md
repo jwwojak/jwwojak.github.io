@@ -17,7 +17,7 @@ Senior Technical Writer, 2017-2022
 - Recorded tutorial videos about how to write and use Spotify’s internal documentation system.
 - Maintained the internal company glossary.
 - Founding member of a technical writing guild. The guild coordinated writing projects and promoted technical documentation at Spotify.
-- Writing tools: MkDocs, Markdown, GitHub, Confluence, Coda, Loom (video), Google docs, sheets, slides.
+- Writing tools: MkDocs, Markdown, GitHub, Confluence, Coda, Loom (video), Google docs.
 
 
 ### Adobe Systems (again) 
@@ -34,7 +34,7 @@ Senior Technical Writer, 2013-2017
 - First technical writer hired. Tapad was a startup specializing in cross-device targeting/ad-serving.
 - Created and managed the original set of internal and external documentation for Tapad’s probabilistic, cross-device ad targeting system. Content used by internal staff and external customers.
 - Worked with engineers to write API, Android, and iOS documentation.
-- Writing tools: Confluence and Google products.
+- Writing tools: Confluence and Google docs.
 
 ### Demdex/Adobe Systems
 Technical Writer 2011-2013
@@ -42,7 +42,7 @@ Technical Writer 2011-2013
 - First technical writer hired. Demdex was a NYC-based startup acquired by Adobe. The product was renamed Adobe Audience Manager.
 - Created and managed the original set of developer- and customer-facing documentation.
 - Migrated documentation from Google docs to Adobe’s documentation system.
-- Writing tools: XMetaL (a DITA authoring system), Google, Confluence, SVN.
+- Writing tools: XMetaL (a DITA authoring system), Confluence, SVN, Google docs.
 
 ## Skills
 
