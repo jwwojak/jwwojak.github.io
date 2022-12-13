@@ -50,3 +50,7 @@ nav:
           - ADRs: guide/organization/org_adr.md
       - API Documentation: guide/api/api_intro.md
       - Command Line Documentation: guide/cli/cli.md
+      - Styling Pages and Text:
+          - Introduction: guide/style/style_intro.md
+          - Bold Text: guide/style/style_bold.md
+          - Italics: guide/style/style_italics.md
