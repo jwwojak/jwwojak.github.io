@@ -53,4 +53,5 @@ nav:
       - Styling Pages and Text:
           - Introduction: guide/style/style_intro.md
           - Bold Text: guide/style/style_bold.md
+          - Code Formatting: placeholder.md
           - Italics: guide/style/style_italics.md
