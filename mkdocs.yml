@@ -28,7 +28,7 @@ copyright: Copyright &copy; 2022 Joe Wojak
 nav:
   - Welcome: index.md
   - Work Experience: resume/resume.md
-  - Writing Guide and Work:
+  - Writing Guide:
       - Introduction: guide/intro.md
       - Documentation Types:
           - Topic-Based Writing and Documentation Types: guide/types/types_intro.md
@@ -56,3 +56,7 @@ nav:
           - Bold Text: guide/style/style_bold.md
           - Code Snippets and Blocks: guide/style/style_code.md
           - Italics: guide/style/style_italics.md
+  - Writing Samples:
+      - Budgets, Spending, and Pacing: samples/introduction.md
+      - Understanding Budget Distribution and Update Cycles: samples/update-cycle.md
+
