@@ -17,7 +17,8 @@ markdown_extensions:
   - def_list
   - md_in_html
   - pymdownx.details
-  - pymdownx.highlight
+  - pymdownx.highlight:
+      use_pygments: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
@@ -53,5 +54,5 @@ nav:
       - Styling Pages and Text:
           - Introduction: guide/style/style_intro.md
           - Bold Text: guide/style/style_bold.md
-          - Code Formatting: placeholder.md
+          - Code Snippets and Blocks: guide/style/style_code.md
           - Italics: guide/style/style_italics.md
