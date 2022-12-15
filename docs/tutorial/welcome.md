@@ -10,7 +10,7 @@ Hello friends! Welcome to an early version of the revised Data Engineering Golde
     - ITGC
 
 ??? info "What is a golden path?"
-    A golden path tutorial introduces you to a topic and the Spotify-specific ways to do something. It is not the full documentation for a particular subject. Instead, a golden path touches briefly on each tool and task, and does just enough to establish the basic, opinionated, and optimal way of working.
+    A golden path tutorial introduces you to a topic and our company-specific ways to do something. It is not the full documentation for a particular subject. Instead, a golden path touches briefly on each tool and task, and does just enough to establish the basic, opinionated, and optimal way of working.
 
 <!--
     
@@ -37,7 +37,7 @@ Different workflows are suitable for different use cases. In this tutorial, we'l
 
 This tutorial is designed for:
 
-- New engineers who need to get up to speed with Spotify-specific concepts and ways of working with batch data workflows at Spotify.
+- New engineers who need to get up to speed with concepts and ways of working with batch data workflows.
 
 - Employees changing roles within the company and who need to create and manage batch data workflows.
 
