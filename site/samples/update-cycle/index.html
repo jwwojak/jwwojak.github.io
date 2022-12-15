@@ -731,8 +731,50 @@
   
   
     <li class="md-nav__item">
-      <a href="../introduction/" class="md-nav__link">
-        Budgets, Spending, and Pacing
+      <a href="../samples-intro/" class="md-nav__link">
+        Introduction
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_2" type="checkbox" id="__nav_4_2" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_2">
+          Budgets, Spending, and Pacing
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Budgets, Spending, and Pacing" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_2">
+          <span class="md-nav__icon md-icon"></span>
+          Budgets, Spending, and Pacing
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../budget-spend-intro/" class="md-nav__link">
+        Introduction
       </a>
     </li>
   
@@ -796,6 +838,27 @@
   
 </nav>
       
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../budget-data-center/" class="md-nav__link">
+        Budget Distribution Among and Within Data Centers
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
     </li>
   
 
@@ -870,9 +933,11 @@
 <p>However, the budgets aren't immediately available to the bidders.</p>
 <p>Another system, the budget allocator, needs to run first and send bidder match rate data to Watson. Match rates let Watson assign budget amounts to each bidder in proportion to how many bids they've matched given the constraints set by a tactic. If the bidders don't have a budget, they'll just sent match rate data to Vertica where it's passed on to the budget allocator.</p>
 <p>In the following illustration, the green circle shows you where budget information is distributed before the budget allocator or the bidders update themselves.</p>
-<p>PLACEHOLDER FOR IMAGE</p>
+<p><img alt="budget-predistribution" src="../../images/budget-distribution1.PNG" /></p>
 <h2 id="post-update-budget-distribution">Post-update budget distribution</h2>
-<p>Let's look at how budget data gets distributed after an update.</p>
+<p>Let's look at how budget data gets distributed after an update. In the following illustration, the green circle shows you where budget information is distributed after the budget allocator and bidders update themselves.</p>
+<p><img alt="budget-postdistribution" src="../../images/budget-distribution2.PNG" /></p>
+<p>The table below explains what's happening after a budget distribution cycle.</p>
 <p><html></p>
 <table border="1">
 <tr bgcolor=#E5E8E8>
@@ -895,8 +960,6 @@
     <td>At 1-hour intervals, the bidders load/reload all the available campaign data from Watson. This ensures they have the latest budget and campaign data.<br><br> Also, this update takes bidder performance into account. As a result, the bidders receive budget amounts in proportion to their match rates, i.e., bidders that match a lot of requests receive more budget than those with fewer bid requests. Finally, the bidders continue to send match rate data to Vertical, which passes that information to the budget allocator.</tr>
 </table>
 <p></html></p>
-<p>In the following illustration, the green circle shows you where budget information is distributed after the budget allocator and bidders update themselves.</p>
-<p>PLACEHOLDER FOR IMAGE</p>
 
 
 
@@ -917,7 +980,7 @@
     <nav class="md-footer__inner md-grid" aria-label="Footer" >
       
         
-        <a href="../introduction/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Budgets, Spending, and Pacing" rel="prev">
+        <a href="../budget-spend-intro/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Introduction" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
           </div>
@@ -926,11 +989,26 @@
               <span class="md-footer__direction">
                 Previous
               </span>
-              Budgets, Spending, and Pacing
+              Introduction
             </div>
           </div>
         </a>
       
+      
+        
+        <a href="../budget-data-center/" class="md-footer__link md-footer__link--next" aria-label="Next: Budget Distribution Among and Within Data Centers" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Budget Distribution Among and Within Data Centers
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
       
     </nav>
   

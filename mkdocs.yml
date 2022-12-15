@@ -57,6 +57,9 @@ nav:
           - Code Snippets and Blocks: guide/style/style_code.md
           - Italics: guide/style/style_italics.md
   - Writing Samples:
-      - Budgets, Spending, and Pacing: samples/introduction.md
-      - Understanding Budget Distribution and Update Cycles: samples/update-cycle.md
+      - Introduction: samples/samples-intro.md
+      - Budgets, Spending, and Pacing:
+          - Introduction: samples/budget-spend-intro.md
+          - Understanding Budget Distribution and Update Cycles: samples/update-cycle.md
+          - Budget Distribution Among and Within Data Centers: samples/budget-data-center.md      
 
