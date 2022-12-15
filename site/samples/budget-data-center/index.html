@@ -850,6 +850,20 @@
 
             
           
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../budget-update/" class="md-nav__link">
+        Budget Updates Can Delay Tactic Delivery
+      </a>
+    </li>
+  
+
+            
+          
         </ul>
       </nav>
     </li>
@@ -913,10 +927,11 @@
 
 <h1 id="budget-distribution-among-and-within-data-centers">Budget Distribution Among and Within Data Centers</h1>
 <p><img alt="writing-sample" src="https://img.shields.io/badge/status-writing%20sample-brightgreen" /></p>
-<p>Each data center receives campaign budget in direct proportion to the bid requests matched by their bidders. Within a data center, hardware differences between servers affects how much budget each bidder receives.</p>
+<p>Our data centers receive campaign budgets in direct proportion to the bid requests matched by their bidders. Within a data center, hardware differences between servers affect how much budget each bidder receives.</p>
 <h2 id="match-rates-and-budget-distribution">Match rates and budget distribution</h2>
-<p>Budget management is easy when you have only one data center. In this scenario, the bidders receive all the available budget. But we have several regional data centers, not just one. This design makes systems fault tolerant and responsive to bid requests, but also exposes the limitations of even budget distribution.</p>
-<p>Budget management is a challenge when you have multiple data centers. In this scenario, even budget distribution is inefficient because one data center may receive more bid requests than the others. Also, even distribution strands budget in data centers that don't get many (or any) bid requests. To solve this problem, our systems allocate budgets to each data center in direct proportion to their match rate. The match rate measures how often the bidders in a data center can fulfill a bid request given the constraints set by each tactic. If a data center and its bidders match more bids, they receive a larger share of the available budget. This is a dynamic method of budget allocation that can shift resources between data centers and bidders in response to demand.</p>
+<p>Budget management is easy when you have only one data center. In this scenario, the bidders receive all the budget available to them. But we have several regional data centers, not just one. This design makes systems fault tolerant and responsive to bid requests, but also exposes the limitations of even budget distribution.</p>
+<p>For example, with multiple data centers, even budget distribution is inefficient because one data center may receive more bid requests than the others. Also, even distribution strands budget in data centers that don’t get many (or any) bid requests.</p>
+<p>To help solve the stranded budget problem, our systems allocate budgets to each data center in direct proportion to their match rate. The match rate measures how often the bidders in a data center can fulfill a bid request given the constraints set by each tactic. If a data center and its bidders match more bids, they receive a larger share of the total budget. This is a dynamic method of budget allocation that shifts resources between data centers and bidders in response to demand.</p>
 <p>In our technology stack, the budget allocator calculates the match rate and Watson manages and distributes budgets to the bidders. For more information about how these systems work, see <a href="../update-cycle/">Understanding Budget Distribution and Update Cycles</a>.</p>
 
 
@@ -952,6 +967,21 @@
           </div>
         </a>
       
+      
+        
+        <a href="../budget-update/" class="md-footer__link md-footer__link--next" aria-label="Next: Budget Updates Can Delay Tactic Delivery" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Budget Updates Can Delay Tactic Delivery
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
       
     </nav>
   

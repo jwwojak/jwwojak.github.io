@@ -61,5 +61,6 @@ nav:
       - Budgets, Spending, and Pacing:
           - Introduction: samples/budget-spend-intro.md
           - Understanding Budget Distribution and Update Cycles: samples/update-cycle.md
-          - Budget Distribution Among and Within Data Centers: samples/budget-data-center.md      
+          - Budget Distribution Among and Within Data Centers: samples/budget-data-center.md
+          - Budget Updates Can Delay Tactic Delivery: samples/budget-update.md      
 
