@@ -58,9 +58,10 @@ nav:
           - Italics: guide/style/style_italics.md
   - Writing Samples:
       - Introduction: samples/samples-intro.md
-      - Budgets, Spending, and Pacing:
+      - Budgets, Spending, and Pacing Delays:
           - Introduction: samples/budget-spend-intro.md
           - Understanding Budget Distribution and Update Cycles: samples/update-cycle.md
           - Budget Distribution Among and Within Data Centers: samples/budget-data-center.md
-          - Budget Updates Can Delay Tactic Delivery: samples/budget-update.md      
+          - Budget Updates Can Delay Tactic Delivery: samples/budget-update.md
+          - Force a Budget Update: samples/force-budget.md      
 
