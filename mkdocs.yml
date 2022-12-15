@@ -63,5 +63,7 @@ nav:
           - Understanding Budget Distribution and Update Cycles: samples/update-cycle.md
           - Budget Distribution Among and Within Data Centers: samples/budget-data-center.md
           - Budget Updates Can Delay Tactic Delivery: samples/budget-update.md
-          - Force a Budget Update: samples/force-budget.md      
+          - Force a Budget Update: samples/force-budget.md
+      - Data Engineering Tutorial:
+          -   Introduction and Welcome: tutorial/welcome.md  
 
