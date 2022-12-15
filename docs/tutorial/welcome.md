@@ -1,5 +1,7 @@
 # Introduction and Welcome
 
+![writing-sample](https://img.shields.io/badge/status-writing%20sample-brightgreen)
+
 Hello friends! Welcome to an early version of the revised Data Engineering Golden Path. The concepts, examples, and lessons in this tutorial will teach you how to publish a production-grade data endpoint via a batch data workflow.
 
 !!! warning "Alpha release"
