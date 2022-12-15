@@ -14,11 +14,15 @@ Another system, the budget allocator, needs to run first and send bidder match r
 
 In the following illustration, the green circle shows you where budget information is distributed before the budget allocator or the bidders update themselves.
 
-PLACEHOLDER FOR IMAGE
+![budget-predistribution](../images/budget-distribution1.PNG)
 
 ## Post-update budget distribution
 
-Let's look at how budget data gets distributed after an update.
+Let's look at how budget data gets distributed after an update. In the following illustration, the green circle shows you where budget information is distributed after the budget allocator and bidders update themselves.
+
+![budget-postdistribution](../images/budget-distribution2.PNG)
+
+The table below explains what's happening after a budget distribution cycle.
 
 <html>
 <table border="1">
@@ -42,7 +46,3 @@ Let's look at how budget data gets distributed after an update.
     <td>At 1-hour intervals, the bidders load/reload all the available campaign data from Watson. This ensures they have the latest budget and campaign data.<br><br> Also, this update takes bidder performance into account. As a result, the bidders receive budget amounts in proportion to their match rates, i.e., bidders that match a lot of requests receive more budget than those with fewer bid requests. Finally, the bidders continue to send match rate data to Vertical, which passes that information to the budget allocator.</tr>
 </table>
 </html>
-
-In the following illustration, the green circle shows you where budget information is distributed after the budget allocator and bidders update themselves.
-
-PLACEHOLDER FOR IMAGE
