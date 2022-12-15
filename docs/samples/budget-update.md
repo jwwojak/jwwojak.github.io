@@ -20,6 +20,3 @@ However, ad delivery depends on where the allocators and bidders are in their re
 
 For details about budget updates work, see [Understanding Budget Distribution and Update Cycles](update-cycle.md).
 
-## Force a budget update
-
-You can force an out-of-cycle budget update if you need a tactic to start bidding right away. To do force an update, make a change to the campaign or tactic and save that change. For example, you could add a space to a campaign’s description field and save it. Saved changes prompt budget allocators and the bidders to check for new or revised budgets outside of their scheduled update intervals.
