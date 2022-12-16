@@ -65,5 +65,6 @@ nav:
           - Budget Updates Can Delay Tactic Delivery: samples/budget-update.md
           - Force a Budget Update: samples/force-budget.md
       - Data Engineering Tutorial:
-          -   Introduction and Welcome: tutorial/welcome.md  
+          -  Introduction and Welcome: tutorial/welcome.md
+          -  Summary: tutorial/summary.md
 
