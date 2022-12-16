@@ -9,6 +9,7 @@ We'll use the [Styx Scheduled Scio Pipeline template (Flyte)](../placeholder.md)
 1. Click the link above to start the creation process. This opens the template section shown below.
 
     ![ID-description](../images/step1.png)
+
 1. Identify and describe your component. Click **Next** to continue.
 
     - **Component ID**: We suggest `de-gp-<username>` so others can see this belongs to you.
