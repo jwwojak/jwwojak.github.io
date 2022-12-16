@@ -12,7 +12,7 @@ Different workflows are suitable for different use cases. In this tutorial, we'l
 
 |**Workflow template**|**Use case**|
 |----|----|
-|**Flyte Scio**|When you need to create computationally demanding and/or resource-intensive Dataflow jobs.|
+|**Flyte Scio**|When you need to create computationally demanding and/or resource-intensive dataflow jobs.|
 |**Flyte Python**|When you need to write a workflow using Python.|
 |**DBeam**|When you want to export data from a SQL database to Google Cloud Storage (GCS).|
 |**BigQuery Runner**|When you need to schedule a fully featured workflow running on BigQuery or when it's faster to calculate within BigQuery.|
