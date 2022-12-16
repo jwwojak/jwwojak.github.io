@@ -66,5 +66,6 @@ nav:
           - Force a Budget Update: samples/force-budget.md
       - Data Engineering Tutorial:
           -  Introduction and Welcome: tutorial/welcome.md
+          -  Annotating Data: tutorial/annotate.md
           -  Summary: tutorial/summary.md
 
