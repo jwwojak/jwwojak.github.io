@@ -1,5 +1,7 @@
 # Create a Data Workflow Component
 
+![writing-sample](https://img.shields.io/badge/status-writing%20sample-brightgreen)
+
 We'll use the [Styx Scheduled Scio Pipeline template (Flyte)](../placeholder.md) on Backstage to create a new GHE repository for your data workflow component. Follow these instructions to get started.
 
 ## Component creation steps

@@ -1,5 +1,7 @@
 # Summary
 
+![writing-sample](https://img.shields.io/badge/status-writing%20sample-brightgreen)
+
 Congratulations, you've completed the Data Engineering Shiny Path tutorial. Maybe the journey was a little rough. That's OK. The road is under construction, but hopefully this tutorial helped you:
 
 - Understand batch data workflows (pipelines), their use cases, and related engineering concepts.

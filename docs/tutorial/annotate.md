@@ -1,5 +1,7 @@
 # Annotating Data
 
+![writing-sample](https://img.shields.io/badge/status-writing%20sample-brightgreen)
+
 Annotations play an important role in data management. For example, annotations help:
 
 - Identify datasets that contain personally identifiable information (PII).
