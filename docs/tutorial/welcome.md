@@ -2,7 +2,7 @@
 
 ![writing-sample](https://img.shields.io/badge/status-writing%20sample-brightgreen)
 
-Hello friends! Welcome to an early version of the revised Data Engineering Golden Path. The concepts, examples, and lessons in this tutorial will teach you how to publish a production-grade data endpoint via a batch data workflow.
+Hello friends! Welcome to an early version of the revised Data Engineering Golden Path. The concepts, examples, and lessons in this tutorial will teach you how to publish a production-grade data endpoint via a batch data workflow (pipeline).
 
 !!! warning "Alpha release"
     This tutorial is in alpha and subject to change after user testing. It is designed as an eventual replacement for the batch workflow content in the Data Engineering Golden Path. Currently, this release excludes some topics that would bring it to parity with that golden path. These include:
