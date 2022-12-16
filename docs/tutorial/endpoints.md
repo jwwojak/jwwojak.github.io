@@ -1,5 +1,6 @@
 # Understanding Data Endpoints and Workflows
 
+![writing-sample](https://img.shields.io/badge/status-writing%20sample-brightgreen)
 
 A _data endpoint_ is an entity that represents a collection of data.
 
