@@ -11,28 +11,30 @@ This is a selected chronology of my work experience. [Download my resume](Joe_Wo
 ### Spotify
 Senior Technical Writer, 2017-2022
 
-- Wrote developer-facing documentation for Spotify’s internal system architecture. Content improved understanding among engineering teams about how to access and use services and how Spotify ad serving systems worked.  
-- Wrote and revised training tutorials for engineers. Changes improved clarity, accuracy, trust, content adoption, and reduced confusion.
-- Created The Spotify Technical Writing Handbook, a writing and style guide for developers. Guide designed to standardize content style and organization in Spotify’s internal documentation system.
+- Wrote developer-facing documentation for Spotify’s internal system architecture. Content improved understanding among engineering teams about using internal services and how Spotify ad serving systems worked.  
+- Wrote and revised training tutorials for engineers. Changes improved accuracy, trust, content adoption, and reduced confusion.
+- Created The Spotify Technical Writing Handbook, a writing and style guide for developers. Adoption helped standardize writing style and organization in Spotify’s internal documentation system.
+- Revised and managed company glossary. Changes improved content organization, definitions, weekly revisions, and included a search feature.
 - Recorded tutorial videos about how to write and use Spotify’s internal documentation system.
 - Helped create a technical writing guild. The guild coordinated writing projects and promoted technical documentation at Spotify.
-- Writing tools: MkDocs, Markdown, GitHub, Confluence, Coda, Loom (video), Google docs.
+- Writing tools: MkDocs, Markdown, GitHub, JIRA, Trello, Confluence, Coda, Loom (video), Google docs.
+
 
 ### Adobe Systems (again) 
 Senior Technical Writer, 2015-2017
 
-- Returned to Adobe to write and manage documentation for Audience Manager. Efforts brought neglected documentation up-to-date and eliminated issue backlog.
+- Returned to Adobe to write and manage documentation for Audience Manager. Efforts brought neglected documentation up-to-date, added API content, and eliminated issue backlog.
 - Created and organized documentation for the Marketing Cloud ID Service and the Marketing Cloud Device Co-Op. Efforts reduced support demands and allowed customers to work with these systems in a self-service manner.
-- Mentored and collaborated with a junior technical writer based in Bucharest, Romania.
-- Helped developers write API documentation.
--  Writing tools: XMetaL, Oxygen (DITA authoring systems), GitHub, Confluence, Google docs.
+- Mentored and collaborated with a junior technical writer based in Bucharest, Romania. Efforts prepared him to take my role after leaving Adobe.
+- Writing tools: XMetaL, Oxygen (DITA authoring systems), GitHub, Confluence, Google docs.
 
 ### Tapad
 Senior Technical Writer, 2013-2017
 
-- First technical writer hired. Wrote documentation for Tapad’s probabilistic, cross-device ad targeting system. Documentation helped client support teams create target ad campaigns for external clients.
-- Worked with engineers to write API, Android, and iOS documentation.
+- First technical writer hired. Wrote documentation for Tapad’s probabilistic, cross-device ad targeting system. Documentation helped client support teams create targeted ad campaigns for external clients.
+- Worked with engineers to write API, Android, and iOS SDK documentation. 
 - Writing tools: Confluence, Google docs.
+
 
 ### Demdex/Adobe Systems
 Technical Writer 2011-2013

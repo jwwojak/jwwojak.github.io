@@ -8,7 +8,7 @@ Asynchronous budget updates can delay tactic delivery from 10 minutes to an hour
 
 Budget allocators and bidders update budget information at different times.
 
--  Budget allocators check for budget at 10-minute intervals.
+- Budget allocators check for budget at 10-minute intervals.
 
 - The bidders check Watson for budget at 1-hour intervals.
 
