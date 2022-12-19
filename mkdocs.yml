@@ -70,4 +70,6 @@ nav:
           -  Create a Data Workflow Component: tutorial/create-workflow.md
           -  Annotating Data: tutorial/annotate.md
           -  Summary: tutorial/summary.md
+      - Device Graph Overview:
+          - Device Graph Basics: samples/graph-basics.md
 
