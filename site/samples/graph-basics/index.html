@@ -1042,6 +1042,20 @@
 
             
           
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../household-scores/" class="md-nav__link">
+        Household Scores
+      </a>
+    </li>
+  
+
+            
+          
         </ul>
       </nav>
     </li>
@@ -1122,7 +1136,7 @@
 <p>The <em>Device Graph</em> consists of internet-enabled devices seen on a network and the connections (or edges) shared between each device. In the Device Graph, a "connection" is not a physical link between devices. In this case, the "connection" or "edge" refers to a virtual relationship between devices. This relationship is based on how recently and frequently 2 (or more) devices are seen together on a network.</p>
 <p><img alt="basic-graph" src="../../images/device-graph.PNG" /></p>
 <h2 id="building-the-device-graph">Building the Device Graph</h2>
-<p>We build the device graph with a process known as bridging. Bridging lets our systems identify and make connections between devices on the same network. The result is a map of all the devices on a particular network. In addition to bridging, our systems create and assigns various numeric scores to the connections between each device. These scores are designed to quantify relationship (strong or weak) between devices in the graph.</p>
+<p>We build the device graph with a process known as bridging. Bridging lets our systems identify and make connections between devices on the same network. The result is a map of all the devices on a particular network. In addition to bridging, our systems create and assigns various numeric scores to the connections between each device. These scores are designed to quantify relationships (strong or weak) among devices in the graph.</p>
 <h2 id="composition">Composition</h2>
 <p>A typical device graph contains:</p>
 <ul>
@@ -1141,6 +1155,40 @@
 <li>Information provided by third-party data partners.</li>
 </ul>
 <p>See the following table for more information.</p>
+<p><html></p>
+<table border="1">
+<tr bgcolor=#E5E8E8>
+<th>Data source</th><th>Description</th>
+</tr>
+<tr>
+<td><b>HTTP calls</b></td>
+<td>HTTP calls provide the largest data sets used to build the Device Graph. These calls come directly from:
+    <ul>
+        <li>Webpage code</li>
+        <li>Server-to-server integrations with other data providers or sources</li>
+    </ul>
+This data includes, but is not limited to:
+    <ul>
+        <li>Headers passed in an HTTP call</li>
+        <li>Any other data points passed in from third-party partners/integrations</li>
+    </ul>
+    <b>Note:</b> We do not use or accept Personally Identifiable Information (PII) to bridge devices.
+</td>
+</tr>
+<tr>
+<td><b>Authenticated sources</b></td>
+<td>Purchased data from sites that require user authentication. User authentication provides data we use to help build the Device Graph.
+</td>
+</tr>
+<td><b>APIs or SDKs</b></td>
+<td>This is data returned by our APIs or Android and iOS SDKs.</td>
+</tr>
+<tr>
+<td><b>Location-based sources</b></td>
+<td>Data from airport, stadium, hotel networks, and similar venues.</td>
+</tr>
+</table>
+<p></html></p>
 
 
 
@@ -1175,6 +1223,21 @@
           </div>
         </a>
       
+      
+        
+        <a href="../household-scores/" class="md-footer__link md-footer__link--next" aria-label="Next: Household Scores" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Household Scores
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
       
     </nav>
   
