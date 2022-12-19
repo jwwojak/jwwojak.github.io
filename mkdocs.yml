@@ -56,6 +56,7 @@ nav:
           - Bold Text: guide/style/style_bold.md
           - Code Snippets and Blocks: guide/style/style_code.md
           - Italics: guide/style/style_italics.md
+          - Lists: guide/style/style_lists.md
   - Writing Samples:
       - Introduction: samples/samples-intro.md
       - Budgets, Spending, and Pacing Delays:
