@@ -4,8 +4,8 @@ Hi and welcome. My name is Joe Wojak. I'm a technical writer in NYC.
 
 This site contains my resume and technical writing guide. 
 
-!!! warning
-    This work is in alpha. Pages may be blank or incomplete. Some links may not work. We're making changes daily.
+!!! note "Beta status"
+    This work is in beta. Sometimes, pages may be blank or incomplete and links might redirect to placeholder pages. 
 
 ## Next steps
 
@@ -18,3 +18,9 @@ This site contains my resume and technical writing guide.
 Thanks for stopping by.
 
 ![feature_complete](images/feature_complete2.jpg)
+
+## Contact
+
+- Email: jwojak@gmail.com
+- LinkedIn: [www.linkedin.com/in/joewojak](www.linkedin.com/in/joewojak)
+- GitHub: [jwwojak.github.io](https://github.com/jwwojak/jwwojak.github.io) (and the site you're on now)
