@@ -74,4 +74,5 @@ nav:
       - Device Graph Overview:
           - Device Graph Basics: samples/graph-basics.md
           - Household Scores: samples/household-scores.md
+          - Individual Scores: samples/individual-scores.md
 
