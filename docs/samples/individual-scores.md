@@ -4,9 +4,9 @@
 
 Individual scores measure the relationship strength within a household group in the Device Graph. They also help you sync IDs and reach devices at the user level.
 
-- High scores suggest a closer connection between devices in a household than lower scores. High scores improve accuracy, but reduce reach.
+- High scores suggest a closer connection between devices and individuals than lower scores. High scores improve accuracy, but reduce reach.
 
-- Low scores suggest a looser connection between devices in a household than higher scores. Low scores reduce accuracy, but increase reach.
+- Low scores suggest a looser connection between devices and an individuals than higher scores. Low scores reduce accuracy, but increase reach.
 
 Keep in mind, however, that these scored connections are abstract representations of different data points. They are not physical links between nodes.
 
