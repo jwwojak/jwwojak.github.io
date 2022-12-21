@@ -5,9 +5,9 @@ Hi. My name is Joe. I'm a technical writer based in NYC.
 ## Purpose
 This is a test space. I'm using it to:
 
-- Post [my resume and work experience](https://jwwojak.github.io/site/resume/resume/) for job search purposes.
-- Host my [technical writing guide and writing samples](https://jwwojak.github.io/site/). I've had this guide for a long time. It started as a simple doc and has grown over the years. It contains mostly DITA-based and common sense tech writing rules and advice.
-- Test and learn more about [MkDocs](https://www.mkdocs.org/), a static site generation tool.
+- Share my [resume and work experience](https://jwwojak.github.io/site/resume/resume/).
+- Host [writing samples](https://jwwojak.github.io/site/samples/samples-intro/) and my [style guide](https://jwwojak.github.io/site/guide/intro/).
+- Test and learn more about [MkDocs](https://www.mkdocs.org/), a static site generation tool that powers [my demo site](https://jwwojak.github.io/site/).
 
 ## Contact
 
