@@ -1,7 +1,7 @@
 # Introduction
 
-This section contains examples of my technical documentation. This content was standalone documentation or part of a larger knowledge-base repository. Internal teams, customer service personnel, and external clients used this documentation. I’ve removed specific company and/or service names from most of these samples. The information in these articles describes real systems that, today, may or may not be in operation.
+This section provides examples of my technical writing. I wrote this documentation for product knowledge base repositories, internal engineering teams, and customer-facing or account management teams. The pages in each section are related, but they’re not the full documentation for a product or service. The information in these articles describes real systems or processes that may or may not be in operation today. 
 
-As a technical writer, I was often a one-person shop. I had little or no graphic design support for images and other visual features. As a result, I had to create my own illustrations for the documentation in this section. I’ve used tools like Visio, Adobe Illustrator, Google Drawings, and Lucid Chart to add images to my written work.
+Also, I’ve created all the illustrations and diagrams in these examples. As a technical writer, I’ve had little graphic design support and had to make images on my own. I’ve used tools like Visio, Adobe Illustrator, Google Drawings, and Lucid Chart to add images to my written work.
 
 
