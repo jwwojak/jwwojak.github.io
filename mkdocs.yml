@@ -28,6 +28,29 @@ copyright: Copyright &copy; 2022 Joe Wojak
 nav:
   - Welcome: index.md
   - Work Experience: resume/resume.md
+  - Writing Samples:
+      - Introduction: samples/samples-intro.md
+      - Budgets, Spending, and Pacing Delays:
+          - Introduction: samples/budget-spend-intro.md
+          - Understanding Budget Distribution and Update Cycles: samples/update-cycle.md
+          - Budget Distribution Among and Within Data Centers: samples/budget-data-center.md
+          - Budget Updates Can Delay Tactic Delivery: samples/budget-update.md
+          - Force a Budget Update: samples/force-budget.md
+      - Data Engineering Tutorial:
+          - Introduction and Welcome: tutorial/welcome.md
+          - Understanding Data Endpoints and Workflows: tutorial/endpoints.md
+          - Configuring Your Development Environment:
+              - Introduction: samples/setup-intro.md
+              - Installing Scala: samples/setup-scala.md
+              - Installing Java: samples/setup-java.md
+              - Installing SBT: samples/setup-sbt.md
+          - Create a Data Workflow Component: tutorial/create-workflow.md
+          - Annotating Data: tutorial/annotate.md
+          - Summary: tutorial/summary.md
+      - Device Graph Overview:
+          - Device Graph Basics: samples/graph-basics.md
+          - Household Scores: samples/household-scores.md
+          - Individual Scores: samples/individual-scores.md  
   - Writing Guide:
       - Introduction: guide/intro.md
       - Documentation Types:
@@ -57,27 +80,5 @@ nav:
           - Code Snippets and Blocks: guide/style/style_code.md
           - Italics: guide/style/style_italics.md
           - Lists: guide/style/style_lists.md
-  - Writing Samples:
-      - Introduction: samples/samples-intro.md
-      - Budgets, Spending, and Pacing Delays:
-          - Introduction: samples/budget-spend-intro.md
-          - Understanding Budget Distribution and Update Cycles: samples/update-cycle.md
-          - Budget Distribution Among and Within Data Centers: samples/budget-data-center.md
-          - Budget Updates Can Delay Tactic Delivery: samples/budget-update.md
-          - Force a Budget Update: samples/force-budget.md
-      - Data Engineering Tutorial:
-          - Introduction and Welcome: tutorial/welcome.md
-          - Understanding Data Endpoints and Workflows: tutorial/endpoints.md
-          - Configuring Your Development Environment:
-              - Introduction: samples/setup-intro.md
-              - Installing Scala: samples/setup-scala.md
-              - Installing Java: samples/setup-java.md
-              - Installing SBT: samples/setup-sbt.md
-          - Create a Data Workflow Component: tutorial/create-workflow.md
-          - Annotating Data: tutorial/annotate.md
-          - Summary: tutorial/summary.md
-      - Device Graph Overview:
-          - Device Graph Basics: samples/graph-basics.md
-          - Household Scores: samples/household-scores.md
-          - Individual Scores: samples/individual-scores.md
+
 
