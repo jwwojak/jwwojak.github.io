@@ -506,15 +506,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#installing-and-managing-javajdk" class="md-nav__link">
-    Installing and managing Java/JDK
+  <a href="#install-javajdk" class="md-nav__link">
+    Install Java/JDK
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#verifying-javajdk-version" class="md-nav__link">
-    Verifying Java/JDK version
+  <a href="#verify-javajdk" class="md-nav__link">
+    Verify Java/JDK
   </a>
   
 </li>
@@ -1208,15 +1208,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#installing-and-managing-javajdk" class="md-nav__link">
-    Installing and managing Java/JDK
+  <a href="#install-javajdk" class="md-nav__link">
+    Install Java/JDK
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#verifying-javajdk-version" class="md-nav__link">
-    Verifying Java/JDK version
+  <a href="#verify-javajdk" class="md-nav__link">
+    Verify Java/JDK
   </a>
   
 </li>
@@ -1239,11 +1239,11 @@
 <h1 id="installing-and-verifying-javajdk">Installing and Verifying Java/JDK</h1>
 <p><img alt="writing-sample" src="https://img.shields.io/badge/status-writing%20sample-brightgreen" /></p>
 <p>To finish this tutorial, you need <a href="https://aws.amazon.com/corretto/?filtered-posts.sort-by=item.additionalFields.createdDate&amp;filtered-posts.sort-order=desc">Amazon Coretto</a> Java/JDK version 11.</p>
-<h2 id="installing-and-managing-javajdk">Installing and managing Java/JDK</h2>
+<h2 id="install-javajdk">Install Java/JDK</h2>
 <p>To install Java/JDK 11, open a terminal window and:</p>
 <ol>
 <li>
-<p>Check the version by typing, <code>sdk list java | grep "11.*amzn"</code>. If you have v11, the output results should look similar to the following:</p>
+<p>Check the version availability by typing, <code>sdk list java | grep "11.*amzn"</code>. The output results should look similar to the following:</p>
 <div class="highlight"><pre><span></span><code>|  | 11.0.16  | amzn |  | 11.0.16-amzn
 </code></pre></div>
 </li>
@@ -1254,12 +1254,12 @@
 <p>Set the version to 11 by typing, <code>sdk default java 11.0.16-amzn</code>.</p>
 </li>
 </ol>
-<h2 id="verifying-javajdk-version">Verifying Java/JDK version</h2>
-<p>To verify that you have the correct version of Java/JDK (11), open a terminal window and:</p>
+<h2 id="verify-javajdk">Verify Java/JDK</h2>
+<p>After installation, verify that you have the correct version Java/JDK version (V11). To check, open a terminal window and:</p>
 <ol>
 <li>
 <p>Type <code>which java</code>. The output results should look similar to the following:</p>
-<div class="highlight"><pre><span></span><code>/Users/&lt;your_username&gt;/ .sdkman/candidates/java/current/bin/java
+<div class="highlight"><pre><span></span><code>/Users/&lt;your_username&gt;/.sdkman/candidates/java/current/bin/java
 </code></pre></div>
 </li>
 <li>

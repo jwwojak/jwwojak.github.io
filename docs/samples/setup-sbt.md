@@ -4,7 +4,7 @@
 
 To create batch workflows, you need [SBT](https://www.scala-sbt.org/) 1.6.
 
-## Installing SBT
+## Install SBT
 
 To install SBT, open a terminal window and:
 
@@ -17,7 +17,7 @@ To install SBT, open a terminal window and:
 
 1. Set the version to 1.6 by typing `sdk default sbt 1.6.2`. 
 
-## Verifying SBT
+## Verify SBT
 
 To verify that you have the correct version of SBT (1.6.2), open a terminal window and:
 

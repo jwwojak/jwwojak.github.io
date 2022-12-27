@@ -2,12 +2,9 @@
 
 ![writing-sample](https://img.shields.io/badge/status-writing%20sample-brightgreen)
 
-
 To create batch workflows, you need [Scala](https://www.scala-lang.org/) 2.13.
 
-## Installing Scala
-
-![writing-sample](https://img.shields.io/badge/status-writing%20sample-brightgreen)
+## Install Scala
 
 To install Scala, open a terminal window and:
 
@@ -20,7 +17,7 @@ To install Scala, open a terminal window and:
 
 1. Set the version to 2.13.8 by typing, `sdk default scala 2.13.8`.
 
-## Verifying Scala
+## Verify Scala
 
 To verify that you have the correct version of Scala (2.13), open a terminal window and:
 
