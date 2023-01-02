@@ -4,7 +4,7 @@ A `DELETE` method to delete a user group and remove all members from that group.
 
 ## Request
 
-`DELETE /api/v1/groups/`*`<groupId>`*
+`DELETE /api/v1/groups/<groupId>`
 
 ## Response
 
