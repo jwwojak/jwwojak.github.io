@@ -1,4 +1,4 @@
-## Delete a Group {#delete-groups}
+# Delete a Group {#delete-groups}
 
 A `DELETE` method to delete a user group and remove all members from that group.
 
