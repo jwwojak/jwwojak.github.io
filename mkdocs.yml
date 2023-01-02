@@ -30,6 +30,20 @@ nav:
   - Work Experience: resume/resume.md
   - Writing Samples:
       - Introduction: samples/samples-intro.md
+      - API Documentation:
+          - Introduction: samples/api-intro.md
+          - User Methods:
+              - Create a User: samples/create-user.md
+              - Update a User: samples/update-user.md
+              - Delete a User: samples/delete-user.md
+              - Bulk Delete Users: samples/delete-bulk.md
+          - Group Methods:
+              - Create a Group: samples/create-group.md
+              - Update a Group: samples/update-group.md
+              - List Groups: samples/list-groups.md
+              - List Group Permissions: samples/list-group-permissions.md
+              - Delete a Group: samples/delete-group.md
+              - Bulk Delete Groups: samples/delete-groups-bulk.md
       - Budgets, Spending, and Pacing Delays:
           - Introduction: samples/budget-spend-intro.md
           - Understanding Budget Distribution and Update Cycles: samples/update-cycle.md
@@ -72,7 +86,7 @@ nav:
           - Other Content Sections: guide/organization/org_other.md
           - FAQs: guide/organization/org_faqs.md
           - ADRs: guide/organization/org_adr.md
-      - API Documentation: guide/api/api_intro.md
+      - API Documentation Style Guide: guide/api/api_intro.md
       - Command Line Documentation: guide/cli/cli.md
       - Styling Pages and Text:
           - Introduction: guide/style/style_intro.md

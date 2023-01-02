@@ -1,4 +1,4 @@
-# API Documentation
+# API Documentation Style Guide
 
 API descriptions should be consistent across and within methods. Flexibility and creativity are good, but we're going to be strict here. Review this section for rules and examples that can help you write clear, concise API descriptions.
 
