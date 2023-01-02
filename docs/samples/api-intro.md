@@ -12,7 +12,7 @@ Originally, I wrote this API documentation in a DITA XML authoring environment a
 
 ## Static examples
 
-The articles in this section are examples of my API documentation work created in [XMetaL](https://xmetal.com/content-xmetal-author/) and published as static HTML pages.
+The user and group articles in this section are examples of my API documentation created in [XMetaL](https://xmetal.com/content-xmetal-author/) and published as static HTML pages.
 
 ## Related topics
 
