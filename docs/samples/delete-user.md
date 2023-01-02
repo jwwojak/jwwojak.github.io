@@ -4,7 +4,7 @@ A `DELETE` method to delete a single user.
 
 ## Request
 
-`DELETE /api/v1/users/`*`<user_id>`*`
+`DELETE /api/v1/users/<user_id>`
 
 ## Response
 
