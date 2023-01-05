@@ -4,8 +4,8 @@ Hi and welcome. My name is Joe Wojak. I'm a technical writer in NYC.
 
 This site contains my resume and technical writing guide. 
 
-!!! note "Beta status"
-    This work is in beta. Sometimes, pages may be blank or incomplete and links might redirect to placeholder pages. 
+!!! info "Demo status"
+    Some pages may be blank or incomplete. Links might redirect to placeholder text. 
 
 ## Next steps
 
