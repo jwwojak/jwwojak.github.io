@@ -2,7 +2,7 @@
 
 ## Common use - Emphasis
 
-Use _italics_ to place stress, emphasis, or importance on a word or phrase. _Do not_ use [bold text](style_bold.md) for emphasis.
+Format text with _italics_ when you want to place stress, emphasis, or importance on a word or phrase. _Do not_ use [bold text](style_bold.md) for emphasis.
 
 !!! tip "Call-outs"
     If you think some text needs special attention, put that information in a call-out. Call-outs are text items like a "Tip", "Warning", "Note", or "Info" box. See the [Admonition extensions](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types) for a list of supported call-out  types in MkDocs.

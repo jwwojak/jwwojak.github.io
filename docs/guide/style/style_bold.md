@@ -2,7 +2,7 @@
 
 ## Common use - UI controls
 
-Text in **bold** indicates a user interface (UI) control. This can be a button, menu, option control, or anything a user can click on or interact with.
+Formet text as **bold** when describing a user interface (UI) elements or controls. This includes things like buttons, dropdown menu items, option buttons or boxes, or anything a user can click on or interact with.
 
 ## Other uses
 
