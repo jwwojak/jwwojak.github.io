@@ -2,7 +2,7 @@
 
 ## Common use - UI controls
 
-Formet text as **bold** when describing a user interface (UI) elements or controls. This includes things like buttons, dropdown menu items, option buttons or boxes, or anything a user can click on or interact with.
+Use **bold** formatting in text when describing a user interface (UI) elements or controls. This includes things like buttons, dropdown menu items, option buttons or boxes, or anything a user can click on or interact with.
 
 ## Other uses
 
