@@ -2,11 +2,19 @@
 
 ## About
 
-I’m a technical writer with experience in creating documentation for external customers and internal engineering teams. I’ve managed large, established documentation libraries and created original documentation for new systems and services. My writing philosophy is to treat documentation like code. This means writing with open-source systems that accommodate community input and help reduce the documentation burden on developers.
+I’ve written technical documents for both external customers and internal teams. My writing philosophy is to treat documentation like code. This means I favor open-source systems (e.g., MkDocs, Sphinx, Hugo) for creating and managing product documentation.
 
 ## Experience
 
-This is a selected chronology of my work experience. [Download my resume](Joe_Wojak_TechWriter.pdf) for a PDF version of this information.
+[//]: # (This is a selected chronology of my work experience. [Download my resume](Joe_Wojak_TechWriter.pdf) for a PDF version of this information.)
+
+### Opentrons
+Technical Writer, February 2032-present
+
+- Helped write the Opentrons Flex user manual. This is a 150 page manual that supports the launch of a new product, the Opentrons Flex liquid handling robot. Online, PDF only.
+- Wrote new quick start guides for the Flex robot and related components such as electronic pipettes and modules. These are short, in-box guides that describe how to get starting with the robot and other peripherals.
+- Helped revise Opentrons Python API documentation. Revisions include new code samples and text changes that accommodate the differences between two different robot models.
+- Writing tools: Sphinx, reStructuredText (.rst), GitHub, JIRA, Confluence, Google docs. 
 
 ### Spotify
 Senior Technical Writer, 2017-2022
@@ -17,7 +25,7 @@ Senior Technical Writer, 2017-2022
 - Revised and managed company glossary. Changes improved content organization, definitions, weekly revisions, and included a search feature.
 - Recorded tutorial videos about how to write and use Spotify’s internal documentation system.
 - Helped create a technical writing guild. The guild coordinated writing projects and promoted technical documentation at Spotify.
-- Writing tools: MkDocs, Markdown, GitHub, JIRA, Trello, Confluence, Coda, Loom (video), Google docs.
+- Writing tools and systems: MkDocs, Markdown, GitHub, JIRA, Trello, Confluence, Coda, Loom (video), Google docs.
 
 
 ### Adobe Systems (again) 
@@ -26,14 +34,14 @@ Senior Technical Writer, 2015-2017
 - Returned to Adobe to write and manage documentation for Audience Manager. Efforts brought neglected documentation up-to-date, added API content, and eliminated issue backlog.
 - Created and organized documentation for the Marketing Cloud ID Service and the Marketing Cloud Device Co-Op. Efforts reduced support demands and allowed customers to work with these systems in a self-service manner.
 - Mentored and collaborated with a junior technical writer based in Bucharest, Romania. Efforts prepared him to take my role after leaving Adobe.
-- Writing tools: XMetaL, Oxygen (DITA authoring systems), GitHub, Confluence, Google docs.
+- Writing tools and systems: XMetaL, Oxygen (DITA authoring systems), GitHub, Confluence, Google docs.
 
 ### Tapad
 Senior Technical Writer, 2013-2017
 
 - First technical writer hired. Wrote documentation for Tapad’s probabilistic, cross-device ad targeting system. Documentation helped client support teams create targeted ad campaigns for external clients.
 - Worked with engineers to write API, Android, and iOS SDK documentation. 
-- Writing tools: Confluence, Google docs.
+- Writing tools and systems: Confluence, Google docs.
 
 
 ### Demdex/Adobe Systems
@@ -41,13 +49,13 @@ Technical Writer 2011-2013
 
 - First technical writer hired. Demdex was a data management platform (DMP) acquired by Adobe. Documentation helped advertisers create, segment, target, and deliver ads to online audiences.
 - Worked with engineers to write API, Android, and iOS documentation.
-- Writing tools: Confluence, Google docs.
+- Writing tools and systems: Confluence, Google docs.
 
 ## Skills
 
 - Methodology: Written work follows _Darwin Information Typing Architecture_ ([DITA](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture)) documentation standards.
 
-- Technologies: HTML editors, DITA/XML systems (Oxygen, XMetaL), Markdown, GitHub, MkDocs.
+- Technologies: HTML editors, DITA/XML systems (Oxygen, XMetaL), Markdown, GitHub, MkDocs, Sphinx, Python.
 - Others: Confluence, Coda, Loom (videos), LucidChart, Google (docs, slides, sheets), JIRA, Trello, Slack, Stack Overflow.
 
 ## Education
