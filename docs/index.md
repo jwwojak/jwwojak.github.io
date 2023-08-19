@@ -10,9 +10,9 @@ This site contains my resume and technical writing samples.
 
 - See the [Writing Samples section](samples/samples-intro.md) for examples of my work.
 
-Thanks for stopping by.
+Contact information is listed below. Thanks for stopping by.
 
-![feature_complete](images/feature_complete2.jpg)
+![feature_complete](images/feature_complete50.png)
 
 ## Contact
 
