@@ -11,9 +11,10 @@ I’ve written technical documents for both external customers and internal team
 ### Opentrons
 Technical Writer, February 2032-present
 
-- Helped write the Opentrons Flex user manual. This is a 150 page manual that supports the launch of a new product, the Opentrons Flex liquid handling robot. Online, PDF only.
-- Wrote new quick start guides for the Flex robot and related components such as electronic pipettes and modules. These are short, in-box guides that describe how to get starting with the robot and other peripherals.
-- Helped revise Opentrons Python API documentation. Revisions include new code samples and text changes that accommodate the differences between two different robot models.
+- Helped write the [Opentrons Flex Instruction Manual](https://insights.opentrons.com/hubfs/Products/Flex/Opentrons%20Flex%20Manual.pdf?_gl=1*2sk9vn*_ga*MTE0MDUyMjE0Ni4xNjg0MzU4Mzc0*_ga_66HK7MC5D7*MTY5ODUyMjQyNS4xMi4xLjE2OTg1MjI3MzEuNDcuMC4w*_ga_GNSMNLW4RY*MTY5ODUyMjQyNS4xMi4xLjE2OTg1MjI3MzEuNDcuMC4w). This 150-page manual that describes how to set up and use the Flex liquid handling robot.
+- Wrote quick-start guides for the Flex robot modules. These are short, in-box guides that describe how to get starting with the robot and other peripherals. See the [Flex 1-Channel Pipette Quickstart](https://insights.opentrons.com/hubfs/Products/Flex/Flex%201-Channel%20Pipette%20Quickstart%20Guide.pdf?_gl=1*hmc66y*_ga*MTE0MDUyMjE0Ni4xNjg0MzU4Mzc0*_ga_66HK7MC5D7*MTY5ODUyMjQyNS4xMi4xLjE2OTg1MjMyMjUuNTQuMC4w*_ga_GNSMNLW4RY*MTY5ODUyMjQyNS4xMi4xLjE2OTg1MjMyMjUuNTkuMC4w) and [Magnetic Block Quickstart](https://insights.opentrons.com/hubfs/Products/Modules/Opentrons%20Flex%20Magnetic%20Block%20Quickstart%20Guide.pdf?_gl=1*nkf1vf*_ga*MTE0MDUyMjE0Ni4xNjg0MzU4Mzc0*_ga_66HK7MC5D7*MTY5ODUyMjQyNS4xMi4xLjE2OTg1MjMyMzcuNDIuMC4w*_ga_GNSMNLW4RY*MTY5ODUyMjQyNS4xMi4xLjE2OTg1MjMyMjUuNTkuMC4w) examples.
+- Helped revise [Opentrons Python API documentation](https://docs.opentrons.com/v2/index.html). Revisions include improved text, content organization, and code samples that accommodate the differences between different robot models.
+- Other API work includes contributing text revisions for various API class methods and their related parameters. See [Protocols and Instruments](https://docs.opentrons.com/v2/new_protocol_api.html#module-opentrons.protocol_api) for examples.
 - Writing tools: Sphinx, reStructuredText (.rst), GitHub, JIRA, Confluence, Google docs. 
 
 ### Spotify
