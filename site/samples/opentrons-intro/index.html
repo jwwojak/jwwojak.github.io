@@ -13,17 +13,17 @@
       
       
       
-        <link rel="prev" href="../update-cycle/">
+        <link rel="prev" href="../samples-intro/">
       
       
-        <link rel="next" href="../budget-update/">
+        <link rel="next" href="../spot-intro/">
       
       <link rel="icon" href="../../assets/images/favicon.png">
       <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.2">
     
     
       
-        <title>Budget Distribution Among and Within Data Centers - My Technical Writing Workspace</title>
+        <title>Opentrons Writing Samples Introduction - My Technical Writing Workspace</title>
       
     
     
@@ -71,7 +71,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#budget-distribution-among-and-within-data-centers" class="md-skip">
+        <a href="#introduction-placeholder" class="md-skip">
           Skip to content
         </a>
       
@@ -104,7 +104,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Budget Distribution Among and Within Data Centers
+              Opentrons Writing Samples Introduction
             
           </span>
         </div>
@@ -260,12 +260,14 @@
               
   
   
+    
+  
   
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_2" type="checkbox" id="__nav_3_2" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_2" type="checkbox" id="__nav_3_2" checked>
       
       
       
@@ -286,11 +288,21 @@
               
   
   
+    
   
-    <li class="md-nav__item">
-      <a href="../opentrons-intro/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         Opentrons Writing Samples Introduction
       </a>
+      
     </li>
   
 
@@ -513,14 +525,12 @@
               
   
   
-    
-  
   
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_4" type="checkbox" id="__nav_3_4" checked>
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_4" type="checkbox" id="__nav_3_4" >
       
       
       
@@ -583,52 +593,11 @@
               
   
   
-    
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          Budget Distribution Among and Within Data Centers
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../budget-data-center/" class="md-nav__link">
         Budget Distribution Among and Within Data Centers
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#match-rates-and-budget-distribution" class="md-nav__link">
-    Match rates and budget distribution
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -770,21 +739,6 @@
     
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#match-rates-and-budget-distribution" class="md-nav__link">
-    Match rates and budget distribution
-  </a>
-  
-</li>
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
@@ -799,14 +753,8 @@
 
 
 
-<h1 id="budget-distribution-among-and-within-data-centers">Budget Distribution Among and Within Data Centers</h1>
-<p><img alt="writing-sample" src="https://img.shields.io/badge/status-writing%20sample-brightgreen" /></p>
-<p>Our data centers receive campaign budgets in direct proportion to the bid requests matched by their bidders. Within a data center, hardware differences between servers affect how much budget each bidder receives.</p>
-<h2 id="match-rates-and-budget-distribution">Match rates and budget distribution</h2>
-<p>Budget management is easy when you have only one data center. In this scenario, the bidders receive all the budget available to them. But we have several regional data centers, not just one. This design makes systems fault tolerant and responsive to bid requests, but also exposes the limitations of even budget distribution.</p>
-<p>For example, with multiple data centers, even budget distribution is inefficient because one data center may receive more bid requests than the others. Also, even distribution strands budget in data centers that don’t get many (or any) bid requests.</p>
-<p>To help solve the stranded budget problem, our systems allocate budgets to each data center in direct proportion to their match rate. The match rate measures how often the bidders in a data center can fulfill a bid request given the constraints set by each tactic. If a data center and its bidders match more bids, they receive a larger share of the total budget. This is a dynamic method of budget allocation that shifts resources between data centers and bidders in response to demand.</p>
-<p>In our technology stack, the budget allocator calculates the match rate and Watson manages and distributes budgets to the bidders. For more information about how these systems work, see <a href="../update-cycle/">Understanding Budget Distribution and Update Cycles</a>.</p>
+<h1 id="introduction-placeholder">Introduction Placeholder</h1>
+<p>Content TBD</p>
 
 
 

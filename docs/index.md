@@ -12,8 +12,6 @@ This site contains my resume and technical writing samples.
 
 Contact information is listed below. Thanks for stopping by.
 
-![feature_complete](images/feature_complete50.png)
-
 ## Contact
 
 - Email: jwojak@gmail.com
