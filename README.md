@@ -11,4 +11,4 @@ This is a test space. I'm using it to:
 
 ## Contact
 
-Find me on LinkedIn [here](www.linkedin.com/in/joewojak).
+Find me on LinkedIn at https://www.linkedin.com/in/joewojak/.
