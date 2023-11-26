@@ -1,16 +1,7 @@
 # Introduction Placeholder
 
-[Opentrons](https://opentrons.com/) makes liquid handing robots for laboratory work. I was hired as a temp, and then became full-time, to help write the instruction manual and other customer-facing content for the [Flex liquid handing robot](https://opentrons.com/products/flex/). Unlike the other writing samples in this section, all of my work is publicly available online via the links below. I am also not the sole author of this work. All of this content is written in collaboration with my manager who is the senior writer at the company.
+[Opentrons](https://opentrons.com/) makes liquid handing robots. Laboratories use these robots to automate pipetting and other processes like polymerase chain reactions (PCR), nucleic acid extraction, and DNA sequencing.
 
-## Flex Instruction Manual
+The writing samples in this section include an instruction manual for the  [Flex liquid handing robot](https://opentrons.com/products/flex/), quickstart guides for Flex-compatible instruments and modules, and Python API documentation. I am also not the sole author of this work. All of this content was written in collaboration with my manager and senior writer.
 
-dkdkdkd
 
-## Opentrons Python API
-
-dkkdkd
-dddk
-
-## Box Content
-
-dkdkdk

@@ -32,6 +32,8 @@ nav:
       - Introduction: samples/samples-intro.md
       - Opentrons:
           - Opentrons Writing Samples Introduction: samples/opentrons-intro.md
+          - Flex Instruction Manual: samples/flex-manual.md
+          - Quickstart Guides: samples/flex-quickstarts.md
       - Spotify:
           - Spotify Writing Samples Introduction: samples/spot-intro.md
           - Data Engineering Tutorial Introduction and Welcome: tutorial/welcome.md
@@ -45,7 +47,7 @@ nav:
           - Annotating Data: tutorial/annotate.md
           - Summary: tutorial/summary.md
       - Tapad:
-          - Tapad Writing Samples Introduction: samples/rm-intro.md
+          - Tapad Writing Samples Introduction: samples/tap-intro.md
           - Device Graph Overview: samples/graph-basics.md
           - Household Scores: samples/household-scores.md
           - Individual Scores: samples/individual-scores.md
