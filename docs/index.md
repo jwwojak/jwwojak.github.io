@@ -16,4 +16,4 @@ Contact information is listed below. Thanks for stopping by.
 
 - Email: jwojak@gmail.com
 - LinkedIn: [www.linkedin.com/in/joewojak](www.linkedin.com/in/joewojak)
-- GitHub: [jwwojak.github.io](https://github.com/jwwojak/jwwojak.github.io) (and the site you're on now)
+- GitHub: [https://github.com/jwwojak](https://github.com/jwwojak/jwwojak.github.io)

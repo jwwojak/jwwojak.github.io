@@ -1,4 +1,4 @@
-site_name: My Technical Writing Workspace
+site_name: Joe Wojak - Technical Writer
 site_description: An introduction with a resume and writing samples.
 site_author: Joe Wojak
 
@@ -44,14 +44,14 @@ nav:
           - Create a Data Workflow Component: tutorial/create-workflow.md
           - Annotating Data: tutorial/annotate.md
           - Summary: tutorial/summary.md
-      - Right Media:
-          - Right Media Writing Samples Introduction: samples/rm-intro.md
+      - Tapad:
+          - Tapad Writing Samples Introduction: samples/rm-intro.md
+          - Device Graph Overview: samples/graph-basics.md
+          - Household Scores: samples/household-scores.md
+          - Individual Scores: samples/individual-scores.md
           - Budgets, Spending, and Pacing Delays: samples/budget-spend-intro.md
           - Understanding Budget Distribution and Update Cycles: samples/update-cycle.md
           - Budget Distribution Among and Within Data Centers: samples/budget-data-center.md
           - Budget Updates Can Delay Tactic Delivery: samples/budget-update.md
           - Force a Budget Update: samples/force-budget.md
-          - Device Graph Overview:
-              - Device Graph Basics: samples/graph-basics.md
-              - Household Scores: samples/household-scores.md
-              - Individual Scores: samples/individual-scores.md  
+                
